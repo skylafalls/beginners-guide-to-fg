@@ -1,5 +1,5 @@
 [book]
-authors = ["Thien-Hubbing"]
+authors = ["Skylafalls"]
 language = "en"
 multilingual = false
 src = "src"
@@ -8,8 +8,8 @@ description = "A detailed and expansive guide to the chaotic world of Fictional 
 
 [output.html]
 mathjax-support = true
-git-repository-url = "https://github.com/Thien-Hubbing/beginners-guide-to-fg/tree/main/"
-edit-url-template = "https://github.com/Thien-Hubbing/beginners-guide-to-fg/edit/main/{path}"
+git-repository-url = "https://github.com/Skylafalls/beginners-guide-to-fg/tree/main/"
+edit-url-template = "https://github.com/Skylafalls/beginners-guide-to-fg/edit/main/{path}"
 hash-files = true
 
 [preprocessor.alerts]
