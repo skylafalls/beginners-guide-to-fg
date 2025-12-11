@@ -1,1 +1,1 @@
-# Catareflection + Catamirroring
+# Catareflection and catamirroring

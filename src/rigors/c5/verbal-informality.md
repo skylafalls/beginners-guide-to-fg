@@ -1,1 +1,1 @@
-# Verbal Informality
+# Verbal informality

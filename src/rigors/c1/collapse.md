@@ -1,1 +1,0 @@
-# Collapses and u*-shifting
