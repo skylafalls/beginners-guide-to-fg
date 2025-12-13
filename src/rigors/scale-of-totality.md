@@ -135,3 +135,5 @@ This would be the genuine final object, classifying without fail over _absolutel
 This isn’t some generalization strong enough to be _effectively_ all objects to our sub-Omnipotent minds,
 but rather an actual notion of genuine complete Totality.
 We can notate this notion of genuine absolute Totality as **A<sub>0</sub>** (taking the A from “the Absolute”).
+
+Now let's move on to something called "Transmaximalism".
