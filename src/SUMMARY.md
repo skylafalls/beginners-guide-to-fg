@@ -36,7 +36,6 @@
 	- [Quantum Googology](./informals/quantum-googology.md)
 
 # Rigorous FG
-- [Abstract](./rigors/abstract.md)
 - [Introduction](./rigors/README.md)
 - [Baseline worldview assumptions](./rigors/baseline-assumptions.md)
 - [The Scale of Totality](./rigors/scale-of-totality.md)
