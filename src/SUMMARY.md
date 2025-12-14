@@ -35,38 +35,6 @@
 - [Other Stuff]()
 	- [Quantum Googology](./informals/quantum-googology.md)
 
-# Rigorous FG
-- [Introduction](./rigors/README.md)
-  - [Difficulties](./rigors/c1/difficulties.md)
-  - [Rigor Classifications](./rigors/c1/rigor-classification.md)
-  - [Collapses and u*-shifting](./rigors/c1/collapse.md)
-  - [Primary Assumptions](./rigors/c1/assumptions.md)
-- [What is "Everything"?](./rigors/what-is-everything.md)
-  - [The SLs](./rigors/c2/sl-levels.md)
-- [Outside the "Outside"](./rigors/outside-outside.md)
-  - [RL Levels](./rigors/c3/rl-levels.md)
-  - [Internality and Form](./rigors/c3/internality-and-form.md)
-  - [Transfiction](./rigors/c3/transfiction.md)
-  - [Supposability](./rigors/c3/supposability.md)
-  - [Submetaness](./rigors/c3/submetaness.md)
-- [Levels of Thought](./rigors/levels-of-thought.md)
-  - [First 2 TLs](./rigors/c4/tl0-and-tl1.md)
-  - [End all, be all.](./rigors/c4/end-all-be-all.md)
-  - [Uncollapsablity](./rigors/c4/uncollapsbility.md)
-  - [TL3 and beyond...](./rigors/c4/tl3-and-beyond.md)
-- [The Second Sequence](./rigors/the-second-sequence.md)
-  - [Catareflection + Catamirroring](./rigors/c5/catamethods.md)
-  - [Abusing u*](./rigors/c5/abusing-u.md)
-  - [Unsoundness](./rigors/c5/unsoundness.md)
-  - [The Unitude Series](./rigors/c5/unitude-series.md)
-  - [Metaness Layers](./rigors/c5/metaness-layers.md)
-- [Conversational Mindgaming](./rigors/conversational-mindgaming.md)
-  - [SL3: it was all just a tale](./rigors/c6/sl3.md)
-  - [SsML: the flesh is too weak](./rigors/c6/sml.md)
-  - [SL4: total textual destruction](./rigors/c6/sl4.md)
-  - [Actuality hacking: mindgame madness](./rigors/c6/actuality-hacking.md)
-  - [🧶MRL: peace at last..?](./rigors/c6/yarn-mrl.md)
-
 --------
 
 # Appendixes
