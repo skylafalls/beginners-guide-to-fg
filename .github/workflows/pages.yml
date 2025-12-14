@@ -29,9 +29,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install mdbook (but faster)
-        uses: taiki-e/install-action@v2.61.9
+        uses: taiki-e/install-action@61e5998d108b2b55a81b9b386c18bd46e4237e4f
         with:
-          tool: mdbook,mdbook-alerts
+          tool: mdbook
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

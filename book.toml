@@ -1,7 +1,6 @@
 [book]
 authors = ["Skylafalls"]
 language = "en"
-multilingual = false
 src = "src"
 title = "A Beginner's Guide to Fictional Googology"
 description = "A detailed and expansive guide to the chaotic world of Fictional Googology."
@@ -11,5 +10,3 @@ mathjax-support = true
 git-repository-url = "https://github.com/Skylafalls/beginners-guide-to-fg/tree/main/"
 edit-url-template = "https://github.com/Skylafalls/beginners-guide-to-fg/edit/main/{path}"
 hash-files = true
-
-[preprocessor.alerts]
