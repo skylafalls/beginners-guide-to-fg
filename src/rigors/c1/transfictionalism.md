@@ -127,4 +127,4 @@ A<sub>0</sub> is absolutely maximal, but A<sub>1</sub> is so strong that it dwar
 it is transmaximal, and so is every member of the A<sub>**n**</sub> hierarchy succeeding it.
 We can continue this hierarchy as far as we desire, with things such as A<sub>A<sub>0</sub></sub>.
 
-Let's talk about tranxmaximality, shall we?
+Now, allow us now to discuss the quantification of transmaximal objects.

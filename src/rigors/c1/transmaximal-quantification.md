@@ -1,5 +1,4 @@
 # Transmaximal quantification
-Allow us now to discuss the quantification of transmaximal objects.
 To begin, let us examine a short argument which aims to demonsteate that
 A<sub>0</sub> is actually beyond A<sub>1</sub>, which goes as follows:
 - A<sub>0</sub> contains all objects.
