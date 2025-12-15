@@ -14,7 +14,7 @@
     - [Post-NEVER](./informals/c2/notations/post-never.md)
     - [Equation Complexities](./informals/c2/notations/endless-equations.md)
   - [Ordinal Levels](./informals/c2/ordinal-levels.md)
-- [The Questionaire Regions](./informals/questionaire-region.md)
+- [The Questionnaire Regions](./informals/questionaire-region.md)
   - [Cycles](./informals/c3/cycles.md)
     - [Supercycles](./informals/c3/supercycles.md)
   - [Stages and Classes](./informals/c3/classifications.md)

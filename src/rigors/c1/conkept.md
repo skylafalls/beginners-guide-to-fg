@@ -23,7 +23,7 @@ and therefore it is simply too great to have any properties at all.
 However, with such power comes an issue. See, Э claims to possess no properties,
 but it must by definition possess the property of being the supremum of TEA.
 This means that it is essentially claiming to transcend certain characteristics that it itself possesses,
-hich results in it paradoxically falling under itself and being conceptually weakened.
+which results in it paradoxically falling under itself and being conceptually weakened.
 This phenomenon is known as **catareflection**, and it will be elaborated on further in a later section.
 
 Now, with Э comes an interesting question: _what if we don’t stop at TEA?_
