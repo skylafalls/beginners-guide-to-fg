@@ -29,8 +29,8 @@ implies it existence on the 1st reality level.
 ## Collapsing
 
 ![Figure 2: A transfictional object could theoretically be able to write things into its own narrative. This ability is known as TFA.](./fig-2.png)<br>
-_Figure 2: A transfictional object could theoretically be able to write things into its own narrative.
-This ability is known as TFA._
+<sub>_Figure 2: A transfictional object could theoretically be able to write things into its own narrative.
+This ability is known as TFA._</sub>
 
 This idea is, admittedly, quite absurd, but it’s still important.
 Additionally, it’s not restrained to things we can think of –

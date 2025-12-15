@@ -43,8 +43,8 @@ Luckily, paraconsistent systems are not unheard of and can discuss such ideas in
 
 ## Paraconsistency
 
-![Figure 1: An illustration of the contradictory nature of **E<sub>0</sub>**.](./fig-1.png)
-_Figure 1: An illustration of the contradictory nature of **E<sub>0</sub>**._
+![Figure 1: An illustration of the contradictory nature of **E<sub>0</sub>**.](./fig-1.png)<br>
+<sub>_Figure 1: An illustration of the contradictory nature of **E<sub>0</sub>**._</sub>
 
 The least collection too great to be identical to itself is known as **E<sub>0</sub>**.
 **E<sub>0</sub>** is an immensely vast collection, but even so, it’s still _formalizable_;
