@@ -18,7 +18,7 @@ Now we can keep this going and going but eventually we will need a way to expres
 - (A xX A) x B => B counts of the letter "x" within A xXxX... A (eg. **(Ω xX Ω) x 10** => **Ω xXxXxXxXxX Ω**)
 - (A xX A) xx B => B rows of (A xX A) x (A xX A) x ... (eg. (Ω xX Ω) **xx 3** => **(Ω xX Ω) x (Ω xX Ω) x (Ω xX Ω) x Ω**)
 
-There's some implict behavior going on (like the auto-filling of the last "x Ω") but other then that, the notation seems, pretty simple right? You can again, have the same pattern for (A xX A) xX B and such, and then you get to the next level:
+There's some implicit behavior going on (like the auto-filling of the last "x Ω") but other then that, the notation seems, pretty simple right? You can again, have the same pattern for (A xX A) xX B and such, and then you get to the next level:
 - ((A xX A) xX A) x B => B counts of the letter "x" within (A xX A) xXxXxX... A (eg. ((Ω xX Ω) xX Ω) x 4 => (Ω xX Ω) xXxX Ω)
 
 Again, repeat the same patterns demonstrated before, and yes you can stack these, as highlighted below:

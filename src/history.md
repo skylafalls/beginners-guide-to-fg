@@ -2,7 +2,7 @@
 The history of Fictional Googology spans back multiple years, both on the rigorous and informal front. One of the first FGisms (Fictional Googologisms) is a number created by [Mathis R.V](https://www.youtube.com/@MathisRV) on August 20th, 2021. It was on a video called ["Numbers 0 to ABSOLUTELY EVERYTHING!!!"](https://www.youtube.com/watch?v=BGcE68xpuD4).
 
 > [!WARNING]
-> Please note that the video contains a lot of flashing lights and very loud noises, which can cause epileptic seziures. It's recommended to turn down the volume and brightness before viewing, especially later into the video.
+> Please note that the video contains a lot of flashing lights and very loud noises, which can cause epileptic seizures. It's recommended to turn down the volume and brightness before viewing, especially later into the video.
 > Anyone that is photosensitive should not watch it.
 
 Despite the lack of actual entries on the video, it was pretty clear what the final number was gonna be, judging by the title of the video.

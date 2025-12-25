@@ -7,6 +7,6 @@
 
 Over time, there has been many issues related to scales accumulating within the Fictional Googology community, primarily because of the lack of consensus and due to the pettiness/selfishness of some of the members in the community.
 
-One of these problems is **descaling** - the act of placing an entry smaller then its intended position. This has caused many massive fights due to the selfishness of the creators/descalers and will continue to do so for the forseeable future. Luckily nowadays, rarely anyone does descales and when they do, it is usually the creators themself that descales their own entries.
+One of these problems is **descaling** - the act of placing an entry smaller then its intended position. This has caused many massive fights due to the selfishness of the creators/descalers and will continue to do so for the foreseeable future. Luckily nowadays, rarely anyone does descales and when they do, it is usually the creators themself that descales their own entries.
 
 The opposite of descaling but still a problem is **superscaling** - the act of placing an entry above its intended position. An example is releasing multiple versions of a number, which is good in software but bad in Fictional Googology due to the pettiness from releasing multiple versions, especially within the informal space.
