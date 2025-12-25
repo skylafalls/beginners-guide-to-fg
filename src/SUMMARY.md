@@ -49,7 +49,7 @@
 	- [`u*-shifting`](./rigors/c2/u-shifting.md)
 	- [o*](./rigors/c2/o-star.md)
 	- [THO](./rigors/c2/tho.md)
-- [Hyperologically-meta objects](./rigors/c3/README.md)
+- [Hyperologically-meta objects]()
 	- [Void’s field limits](./rigors/c3/void-fields.md)
 	- [The post-n domains](./rigors/c3/post-n-domain.md)
 	- [The Continuum](./rigors/c3/continuum.md)
