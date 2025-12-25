@@ -26,3 +26,5 @@ For some **o\*** – call it **o\***(𝔏) – and some object 𝔄, 𝔄 ⤳ **
 when considered in the global truth of u\*, behaves the exact same way as 𝔄 does when considered in **o\***(𝔏).
 
 For example, let us consider F<sub>0</sub> ⤳ **o\***(HGF). We can see that given HGF, all rFG objects are formalizable. Because of this, when inserted in **o\***(HGF), F<sub>0</sub> – being unformalizable – would contradict the stance upheld by HGF and therefore be reduced to a formalizable approximation of itself. We can give this approximation the symbol F<sup>−</sup>.
+
+This brings us to the broader picture of rFG’s metatheory: **THO** (short for **Theory of Hyperology**), the foundational aspect of rFG as a whole.
