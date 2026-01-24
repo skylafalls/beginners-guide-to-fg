@@ -1,4 +1,5 @@
 # Conkept and perfect conkept
+
 There exists one informal axiom which has not been introduced for this entire explanation so far,
 but that we have been following without realizing it: **the existential axiom** (TEA).
 TEA is a very simple axiom, stating only that _for some object to exist, it must possess a property_.
@@ -31,6 +32,7 @@ What if we tried to delimit axiomatic systems as a whole?
 To do this, we must first define some baseline terminology.
 
 ## Mathematical domains of discourse
+
 To begin, let us define **mathematical theories**.
 This name is a bit of an oxymoron; mathematical theories needn’t be mathematical or even formal.
 A mathematical theory is simply any set of axioms – formal or informal –

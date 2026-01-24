@@ -1,4 +1,5 @@
 # u\*-shifting
+
 **u\*-shifting** is a natural phenomenon that comes to light when examining some of the specific properties of u\*.
 It is the answer to the question of how we can examine things such as E<sub>0</sub> without
 triggering the principle of explosion (a principle of classical logic which states that everything is provable with contradictions).
@@ -16,6 +17,7 @@ systems are true under their own assumptions –
 it’s just that this truth is inferior compared to the global truth of u\*.
 
 ## i\*
+
 The individual assumptions of an object – that is, the things an individual object hold as true –
 are called the object’s **i\***. We notate the i* of some object 𝔒 as **i\*(𝔒)**.
 Let us examine some contradictory i* such as **i\*(E<sub>0</sub>)**.

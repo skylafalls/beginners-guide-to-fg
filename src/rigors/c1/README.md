@@ -1,4 +1,5 @@
 # Transmaximalism
+
 A lot of the concepts in this part will be quite philosophical in nature,
 and there will be a few things brought up here that you will not believe in,
 but the point is that you don’t have to believe in them –

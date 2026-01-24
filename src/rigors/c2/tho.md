@@ -1,4 +1,5 @@
 # Theory of Hyperology (THO)
+
 **THO** is important as it strictly exists above rFG, acting as the axioms and foundational principles governing it.
 As such, in a similar manner to `u*`, our understanding of **THO** must slowly be refined as we go deeper and deeper
 into rFG. The purpose of THO is to give rationality, meaning, rigor and – most importantly – **objectivity**

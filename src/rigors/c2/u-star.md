@@ -1,4 +1,5 @@
 # u\*
+
 To begin, let us explore a vital aspect of rFG: its logic and reasoning, a somewhat complex topic.
 When doing rFG, what logic are we using?
 What do we use when, for example, considering the validity of transmaximal objects?

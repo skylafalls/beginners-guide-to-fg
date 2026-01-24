@@ -1,4 +1,5 @@
 # Baseline worldview assumptions
+
 There are several ontological and worldview assumptions which we must
 suspend our disbelief in whenever we engage in rFG.
 
@@ -37,7 +38,7 @@ We take **object** to genuinely mean the absolute highest point in that sequence
 to define what an object is would be severely limiting, as even that definition would itself be an object.
 
 We should accept **object** as a fundamental term, generalized so far that no definable or undefinable point in the sequence of generalizations can be said to be broad enough to fully classify over it.
-For the purposes of this explanation, we can say that *object* is a notion as fundamental as this very booklet;
+For the purposes of this explanation, we can say that _object_ is a notion as fundamental as this very booklet;
 that is, the notion is generalized to such an extent that its very existence would simply be impossible to define here,
 but should instead be assumed to be absolutely fundamental in a strongly “meta” sense.
 

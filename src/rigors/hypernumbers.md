@@ -1,4 +1,5 @@
 # Hypernumbers
+
 Ѫ is essentially the absolute limit of “mathematics” in the absolute broadest sense of the term.
 Beyond it, philosophy takes complete precedence, and we enter the realm of **hypernumbers**.
 
@@ -31,6 +32,7 @@ What exactly that way is depends on the booster.
 The absolute most prominent example of an object with a booster is our third and final hypernumber in discussion:
 **suvri propellant**, which I’ll denote with the symbol **⮍**.
 The booster of ⮍ is quite special, functioning in a very unique way:
+
 - Every time ⮍ is hindered by any other object,
   its booster defines an antipode to that object with an infinitely stronger definition and applies it on ⮍ itself.
 - If an object prevents the booster from working, it nullifies that prevention.

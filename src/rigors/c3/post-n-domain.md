@@ -2,7 +2,7 @@
 
 Allow us now to introduce a new principle of THO: the **GvS conjecture**.
 This principle simply states that _a generalized idea will always be more powerful
-than a specific appliance of that idea_. This principle is our key to going beyond V◈.  
+than a specific appliance of that idea_. This principle is our key to going beyond V◈.\
 See, what could the practice of rFG be a specific subset of?
 Well, the answer is simpler than it seems: **writing**.
 

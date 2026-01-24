@@ -1,4 +1,5 @@
 # Transfictionalism and reality levels
+
 The first concept we’re going to introduce might be familiar to some who may be reading this explanation.
 It may not seem relevant now, but I’ll explain its importance later.
 It’s based on the **realness levels** from rFG’s sister field of Hypercosmology,
@@ -80,19 +81,21 @@ because you can’t be aware of anything outside of it.
 
 When collapsing transfictionalism, its awareness remains.
 This means that transfictional objects are still aware of the 1st reality level,
-as we are explicitly stating things *about* that level whenever we discuss them.
+as we are explicitly stating things _about_ that level whenever we discuss them.
 This means the 1st reality level is now included in the set of things collapsed
 transfictional objects can quantify over.
 
 So, with the baseline for our proof done, let’s actually formulate it:
+
 - **Everything** refers to the entirety of the 0th reality level.
-	- We can talk about the notion of everything in real life.
-	- When defining this notion, it doesn’t escape into the 1st reality level.
-	- Therefore, **everything** can be neatly classified as a 0th-reality-level idea.
+  - We can talk about the notion of everything in real life.
+  - When defining this notion, it doesn’t escape into the 1st reality level.
+  - Therefore, **everything** can be neatly classified as a 0th-reality-level idea.
 - **Everything** strictly refers to the 0th reality level and does not quantify over the 1st reality level, which means it must have a 0th-reality-level awareness.
 - The definition of transfictionalism explicitly refers to the 1st reality level, so collapsed or not, it has awareness of that level.
 - This means transfictionalism can quantify over more than the 0th reality level; in other words, it can quantify over more than **everything**.
 -
+
 From this point on, we’ll be abbreviating **0th reality level** to just
 **RL0** and **1st reality level** to just **RL1**. Additionally,
 every single concept beyond this point will require some form of suspension of disbelief,
@@ -107,6 +110,7 @@ RL2 would be so strong that nothing you could do in RL1 could ever get you there
 even if you were a real-life Omnipotent.
 
 Higher reality levels are defined analogously:
+
 - RL3 is to RL2 as RL1 is to RL0.
 - RL4 is to RL3 as RL1 is to RL0.
 - RL5 is to RL4 as RL1 is to RL0.
@@ -117,6 +121,7 @@ So, as we have seen, A<sub>0</sub> serves as the limit of RL0 (i.e. the highest 
 so let us now skip ahead to A<sub>1</sub>. A<sub>1</sub> is the limit of RL1, meaning it’s more powerful than anything transfictional
 After that, A<sub>2</sub> is the limit of RL2, meaning it’s more powerful than some form of transfictionalism
 that goes from RL1 to RL2 instead of RL0 to RL1. We can continue on with this sequence:
+
 - A<sub>3</sub> is the limit of RL3.
 - A<sub>4</sub> is the limit of RL4.
 - A<sub>5</sub> is the limit of RL5.

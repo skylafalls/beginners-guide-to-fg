@@ -1,4 +1,5 @@
 # History of Fictional Googology
+
 The history of Fictional Googology spans back multiple years, both on the rigorous and informal front. One of the first FGisms (Fictional Googologisms) is a number created by [Mathis R.V](https://www.youtube.com/@MathisRV) on August 20th, 2021. It was on a video called ["Numbers 0 to ABSOLUTELY EVERYTHING!!!"](https://www.youtube.com/watch?v=BGcE68xpuD4).
 
 > [!WARNING]
@@ -14,4 +15,5 @@ There is also general consensus that Fictional Googology began even earlier, bac
 This paper spawned off a major branch of numbers, called Hypergoogology, numbers that mathematically go beyond Absolute Infinity. It was also the basis for the majority of early numbers within the rigorous FG community.
 
 ## What's next?
+
 Let's explore the rest of history, [starting at the NEVER series](./informals/before-cyclings.md).

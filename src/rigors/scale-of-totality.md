@@ -1,4 +1,5 @@
 # The Scale of Totality
+
 The notions of Totality, maximality and the Absolute – among other similar ideas –
 have been heavily discussed and debated in both philosophy and mathematics ever
 since we began wondering about the stars.
@@ -56,20 +57,21 @@ formalizable objects are those that can be meaningfully classified and
 discussed within some abstract symbol game with strictly defined rules of inference.
 
 As an example of formality, take a system with two objects **a** and **b**:
-- If **b** = 0, **a** + **b** = 0
-- If otherwise, **a** + **b** = *S*(**a** + (**b** − 1))
 
-This is a good example, but it’s still not fully formalized. For one, *S*(*x*) here is just the successor function, so we can reduce it to just “+1”. We can reduce this further and further to the point where it’s just a string of symbols being manipulated. Formal systems are just collections of symbols and rules on how they interact, such as this one:
+- If **b** = 0, **a** + **b** = 0
+- If otherwise, **a** + **b** = _S_(**a** + (**b** − 1))
+
+This is a good example, but it’s still not fully formalized. For one, _S_(_x_) here is just the successor function, so we can reduce it to just “+1”. We can reduce this further and further to the point where it’s just a string of symbols being manipulated. Formal systems are just collections of symbols and rules on how they interact, such as this one:
 
 SYMBOLS:
-  : A
-  : B
+: A
+: B
 
 RULES:
-  : AA = B
-  : AB = BA
-  : ABA = BBA
-  : BB = A
+: AA = B
+: AB = BA
+: ABA = BBA
+: BB = A
 
 We have already breached the idea of complete consistency: nonsensical,
 paradoxical and seemingly unreasonable objects can still be considered formalizable.
@@ -78,6 +80,7 @@ we can still assume collections too great to be formalizable.
 The least of such collections is known as **F<sub>0</sub>**.
 
 ## Unformalizability
+
 The existence of **F<sub>0</sub>** may be greatly unfavourable within certain philosophical views,
 but let it be said again that we must at least _suspend our disbelief_ in such notions.
 
@@ -85,7 +88,7 @@ It is important to note that unformalizable concepts can still be approached in 
 it’s just that their fundamental nature is too complex to be fully formalized.
 We can – and must – retain objectivity and clarity of meaning.
 
-**F<sub>0</sub>** is a *vastly* greater collection than **E<sub>0</sub>**.
+**F<sub>0</sub>** is a _vastly_ greater collection than **E<sub>0</sub>**.
 It must itself be unformalizable in some sense to truly classify over all formalizable objects.
 However, can we say it truly contains **all** objects?
 
@@ -104,22 +107,24 @@ as it guards such structures from being invalidated or even hindered by any impo
 _**no matter how severe**_.
 
 Levels of transcendental paradox resistance which approach MPR are known as levels of **godly paradox resistance** (GPR), and they are defined as follows:
+
 - The first level of GPR has the power to disregard any object that does not utilize any level of GPR.
 - The second level of GPR has the power to disregard any object that utilizes the first level of GPR.
 - The third level of GPR has the power to disregard any object that utilizes the second level of GPR.
 - […]
-- The *n*th level of GPR has the power to disregard any object that utilizes the (*n* − 1)th level of GPR.
+- The *n*th level of GPR has the power to disregard any object that utilizes the (_n_ − 1)th level of GPR.
 
 This brings us to our next object: **G<sub>0</sub>**.
 **G<sub>0</sub>** is the absolute container of all objects which do not prevent their containment via utilization of any level of GPR, be them formal or informal;
 that is to say, it is the point where GPR becomes a requirement to go further.
 
 Objects past **G<sub>0</sub>** are known as _godly_ or _nigh-Omnipotent_. In fact, there are actually defined extensions to **G<sub>0</sub>**:
+
 - G1 contains all things which do not prevent their containment via utilization of the second level of GPR.
 - G2 contains all things which do not prevent their containment via utilization of the third level of GPR.
 - G3 contains all things which do not prevent their containment via utilization of the fourth level of GPR.
 - […]
-- G*n* contains all things which do not prevent their containment via utilization of the (*n* + 1)th level of GPR.
+- G_n_ contains all things which do not prevent their containment via utilization of the (_n_ + 1)th level of GPR.
 
 The container of all objects which do not prevent their containment via utilization of MPR is called **H<sub>0</sub>**, and it is beyond all values of **G<sub>n</sub>**.
 

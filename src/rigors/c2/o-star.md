@@ -1,4 +1,5 @@
 # o\*
+
 Within rFG, **o\*** are very interesting concepts which have already been found to have many fruitful benefits,
 most of which are beyond the scope of everything we have discussed so far.
 

@@ -1,6 +1,8 @@
 # Transmaximal quantification
+
 To begin, let us examine a short argument which aims to demonsteate that
 A<sub>0</sub> is actually beyond A<sub>1</sub>, which goes as follows:
+
 - A<sub>0</sub> contains all objects.
 - A<sub>1</sub> is an object.
 - Therefore, A<sub>0</sub> contains A<sub>1</sub>.
@@ -43,6 +45,7 @@ since it just leads to the same results but makes things easier to talk about.
 ## []-functional limits
 
 And here we are, back at A<sub>n</sub> again! Let’s just take a look at the overall structure of this sequence:
+
 - A<sub>1</sub>
 - A<sub>2</sub>
 - A<sub>3</sub>
@@ -63,6 +66,7 @@ for it when it was first conceived: **B<sub>0</sub>**.
 
 B<sub>0</sub> may seem like a brick wall, but it’s still not over –
 we can still go past it with naïve extensions! These can be defined as follows:
+
 - B<sub>1</sub> is to B<sub>0</sub> as B<sub>0</sub> is to A<sub>0</sub>
 - B<sub>2</sub> is to B<sub>1</sub> as B<sub>0</sub> is to A<sub>0</sub>
 - B<sub>3</sub> is to B<sub>2</sub> as B<sub>0</sub> is to A<sub>0</sub>
@@ -71,6 +75,7 @@ we can still go past it with naïve extensions! These can be defined as follows:
 
 Eventually, this will hit its own limit – we could call it **B-lock**.
 However, we can still go even further. We can denote B-lock as **C<sub>0</sub>** and create yet another sequence:
+
 - C<sub>1</sub> is to C<sub>0</sub> as C<sub>0</sub> is to B<sub>0</sub>
 - C<sub>2</sub> is to C<sub>1</sub> as C<sub>0</sub> is to B<sub>0</sub>
 - C<sub>3</sub> is to C<sub>2</sub> as C<sub>0</sub> is to B<sub>0</sub>

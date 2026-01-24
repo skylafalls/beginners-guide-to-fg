@@ -1,4 +1,5 @@
 # Void’s field limits
+
 Now, think back to ⤴. Imagine if we kept going past the notion of boosters and started
 defining even stronger concepts. Concepts of that level do exist,
 but they will be skipped over so that we can get to the next important milestone.
@@ -12,7 +13,7 @@ We can call this object **V<sub>2</sub>** (or ∀<sup>−</sup> in more hyperolo
 It can immediately be seen how V<sub>2</sub> mirrors A<sub>0</sub>. A<sub>0</sub> “everything”,
 but we still have methods to transcend it from within rFG. V<sub>2</sub> is “everything”,
 including all those complex methods we used to go past A<sub>0</sub>.
-While A<sub>0</sub> is merely a standard Absolute, V<sub>2</sub> is a ***meta-Absolute***.
+While A<sub>0</sub> is merely a standard Absolute, V<sub>2</sub> is a _**meta-Absolute**_.
 
 At first, V<sub>2</sub> may seem invalid, or at least unreachable; however, this is not the case.
 See, V<sub>2</sub> actually violates both THO-authority and THO-expansion.
@@ -42,6 +43,7 @@ Succeeding V<sub>3</sub> is V<sub>4</sub>, defined as the limit of the completed
 with awareness of the fact that V<sub>3</sub> is u\*-shifted, essentially doing the same thing
 to V<sub>3</sub> as V<sub>3</sub> does to V2. Of course, this too is u\*-shifted for the
 same reasons as before. In fact, this hierarchy of u\*-shifting and awareness continues on infinitely:
+
 - V<sub>5</sub> is the limit of the completed state of rFG with awareness of the fact that V<sub>4</sub> is u\*-shifted.
 - V<sub>6</sub> is the limit of the completed state of rFG with awareness of the fact that V<sub>5</sub> is u\*-shifted.
 - V<sub>7</sub> is the limit of the completed state of rFG with awareness of the fact that V<sub>6</sub> is u\*-shifted.
