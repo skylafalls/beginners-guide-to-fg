@@ -69,3 +69,40 @@ After this, the same pattern repeats indefinitely:
 So, in sum, every odd-numbered thought level claims to genuinely break into MRL,
 while every even-numbered thought level is aware of the fact that the level before
 it doesn’t actually break into MRL and is just collapsed.
+
+> [!TIP]
+> There’s a very useful function we can use here: T(_n_),
+> representing the limit of TL*n*. Let’s see how this function progresses:
+>
+> - T(0) = A<sub>0</sub>
+> - T(1) = V<sub>2</sub> >>>>>> A<sub>0</sub>
+> - T(2) = 👁<sub>1</sub> > V<sub>2</sub>
+> - T(3) >>>>>> 👁<sub>1</sub>
+> - T(4) > T(3)
+> - T(5) >>>>>> T(3)
+> - […]
+
+As you can tell, after TL0 we see that every odd-numbered thought level is a _huge_
+jump from its predecessor. We can actually nest this function, with things such as T(T(1)),
+which would be equivalent to T(V<sub>2</sub>). The fixed point of T(_n_) –
+that is, the least object _n_ such that _n_ = T(_n_) – is known as _slight thoughtlock_,
+and it is notated as ♝. This may seem like the highest we can go, but there is still a way to advance.
+
+## Defrealms
+
+Let us introduce the concept of **defrealms**. Defrealms’ formal definition is quite complicated,
+but to put it simply, a collection is considered a defrealm if all of its elements are definitions
+that share at least one property in common.
+There exists, for example, a defrealm containing the definitions for every object in TL1.
+
+The defrealm that matters most to us, however, is the **thoughtrealm**,
+defined as the defrealm containing every definition corresponding to an object in some thought level.
+With this, we can define the limit of thought levels – known as **thoughtlock** –
+as the least object so powerful that its definition simply cannot exist in the thoughtrealm.
+We shall give thoughtlock the symbol Ʇ.
+
+The defrealm that matters most to us, however, is the **thoughtrealm**,
+defined as the defrealm containing every definition corresponding to an object
+in some thought level. With this, we can define the limit of thought levels –
+known as **thoughtlock** – as the least object so powerful that its definition
+simply cannot exist in the thoughtrealm. We shall give thoughtlock the symbol Ʇ.y
