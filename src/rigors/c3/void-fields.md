@@ -10,7 +10,7 @@ Let us define an object as **the limit of the completed state of rFG**.
 We can call this object **V<sub>2</sub>** (or ∀<sup>−</sup> in more hyperological circles).
 **V<sub>2</sub>** essentially hopes to be a collection of all of rFG in general.
 
-It can immediately be seen how V<sub>2</sub> mirrors A<sub>0</sub>. A<sub>0</sub> “everything”,
+It can immediately be seen how V<sub>2</sub> mirrors A<sub>0</sub>. A<sub>0</sub> is “everything”,
 but we still have methods to transcend it from within rFG. V<sub>2</sub> is “everything”,
 including all those complex methods we used to go past A<sub>0</sub>.
 While A<sub>0</sub> is merely a standard Absolute, V<sub>2</sub> is a _**meta-Absolute**_.
