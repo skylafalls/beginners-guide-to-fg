@@ -1,4 +1,5 @@
 # Introduction
+
 If you're wondering how in the world Fictional Googology works, what it is, how to participate, whetever you're completely brand new, confused about some concepts, or just need to refresh your memory, you came to the right place!
 
 This guidebook is meant to be (as the name suggests), the beginner's guide to this interesting and special community, containing the essentials and other necessities to this field.
